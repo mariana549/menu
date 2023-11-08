@@ -1,14 +1,14 @@
 # nav
-Essa e a cptura de ela de como fica o projeto:
-- no computador
+<p>Essa é a captura de tela de como fica o projeto:</p>
+- computador <br>
 ![desktop](imagens/desktop.png)
 
-- no celular
+- celular <br>
 ![mobile](imagens/mobile.png)
 
-##links
-Para visualização do projeto
+## links
+<p>Para visualização do projeto</p>
 <https://mariana549.github.io/menu/>
 
-Para perfil do linkedin 
-<www.linkedin.com/in/mariana-antônia-6694b5245>
+<p>Para perfil do linkedin </p>
+<https://www.linkedin.com/in/mariana-ant%C3%B4nia-6694b5245/>
